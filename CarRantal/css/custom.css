@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(231, 234, 237);
+}
+.con {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
